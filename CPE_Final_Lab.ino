@@ -225,7 +225,6 @@ unsigned int adc_read(unsigned char adc_channel_num)
   return adcValue;
 }
 //End of ADC functions
-
 void my_delay(unsigned int freq)
 {
   // calc period
